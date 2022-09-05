@@ -1,1 +1,2 @@
 we are adding this line from CLI
+we want to try pulling directly from the local repository
