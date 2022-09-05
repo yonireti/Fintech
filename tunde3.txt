@@ -1,3 +1,8 @@
  this is a test git file for cohort8. The expectation is that at the end of this lecture, we would have refreshed our memory of the last class
 learnt about git branches 
 open a git repository and push our code from local repository to the remote repository
+new faces
+new design
+new life
+expensive lifestyle
+God is the greatest
